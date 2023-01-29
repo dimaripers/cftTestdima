@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dima
+ *
+ */
+module cftTest {
+}
